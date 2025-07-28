@@ -1,0 +1,8 @@
+PyMuPDF==1.24.9
+pandas==2.2.3
+scikit-learn==1.6.1
+nltk==3.9.1
+joblib==1.4.2
+sentence-transformers==5.0.0
+tqdm==4.64.0
+catboost
